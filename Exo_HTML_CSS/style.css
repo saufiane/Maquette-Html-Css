@@ -1,0 +1,289 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100% auto;
+    height: 100% auto;
+    margin: 0;
+}
+.back{
+    background-image: url(img/fond_img_header.jpg);
+    background-size: cover;
+}
+nav{
+    background-color: #dce5ec;
+    opacity: 80%;
+    height: 80px;
+}
+.medi{
+    font-size: 2rem;
+    margin: 20px;
+    margin-left: 0;
+}
+.medi::first-letter{
+    color: #6bc2f1;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 62%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 25px;
+    font-size: 1.1667rem;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.con{
+    width: 62%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ico{
+    display: flex;
+}
+.blu{
+    background-color: #6bc2f1;
+    color: white;
+}
+.cote{
+    display: flex;
+    flex-wrap: wrap;
+}
+.med{
+    height: 820px;
+    /* border: solid 2px black; */
+}
+.med2{
+    height: 850px;
+}
+.first{
+    margin-top: 25%;
+    color: white;
+}
+.titre_img_1{
+    font-size: 5.8333rem;
+    margin-bottom: 0;
+}
+.sous_titre_img_1{
+    font-size: 2.1667rem;
+    margin-top: 10px;
+}
+.text_img_1{
+    font-size: 1.5rem;
+}
+.space{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn_1{
+    width: 200px;
+    height: 50px;
+    border: none;
+}
+.flme{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 15%;
+}
+.gr_block_2{
+    margin-top: 10%;
+}
+.wel{
+    font-size: 1.3333rem;
+    color: #6bc2f1;
+}
+.h2_block_2{
+    font-size: 2.5263rem;
+}
+.h2_titre_2{
+    margin: 0;
+}
+.txt_block_2{
+    font-size: 1.2632rem;
+    color: #c6c6c6;
+}
+.btn_2{
+    width: 200px;
+    height: 50px;
+    border: none;
+    margin-top: 40px;
+    background-color: #6bc2f1;
+    color: white;
+}
+.qua{
+    height: 1020px;
+}
+.qua1{
+    width: 50%;
+    height: 450px;
+    background-image: url(img/img_quad.jpg);
+}
+.qua_card_1{
+    color: white;
+    text-align: center;
+    margin-top: 24%;
+    font-size: 1.2632rem;
+}
+.qua2{
+    width: 50%;
+    height: 450px;
+}
+.qua_card_2{
+    color: white;
+    text-align: center;
+    margin-top: 12%;
+}
+.feat{
+    font-size: 1.3333rem;
+}
+.h2_qua{
+    font-size: 2.5263rem;
+    margin: 0;
+}
+.txt_qua{
+    font-size: 1.2632rem;
+}
+.qua3{
+    width: 50%;
+    height: 450px;
+}
+.qua_card_3{
+    color: white;
+    text-align: center;
+    margin-top: 12%;
+}
+.qua4{
+    width: 50%;
+    height: 450px;
+    background-image: url(img/img_enfant.jpg);
+}
+.cate{
+    height: 740px;
+    text-align: center;
+    margin-top: 8%;
+}
+.ico{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.ico_mar{
+    margin-top: 50px;
+}
+.ico_titre{
+    font-size: 1.2632rem;
+}
+.ico_txt{
+    font-size: 1.1228rem;
+}
+.six_back{
+    background-color: #f1f1f1;
+}
+.six{
+    height: 759px;
+}
+.espace{
+    margin-top: 59px;
+}
+.espace2{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.dis{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.dis2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.gr_tem{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+.unmar{
+    margin-top: 0px;
+    font-size: 7.0175rem;
+    margin-bottom: 0px;
+}
+.tem{
+    height: 550px;
+    background-color: #6bc2f1;
+}
+.txt_tem{
+    font-size: 1.1228rem;
+    margin-bottom: 30px;
+}
+.p_1_tem{
+    font-size: 0.9825rem;
+    margin-bottom: 0;
+}
+.p_2_tem{
+    font-size: 0.9123rem;
+    margin-top: 5px;
+}
+.fl_tem{
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.av_img{
+    font-size: 2rem;
+    margin: 0;
+}
+.contactla{
+    width: 62%;
+    height: 770px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+.ti_con{
+    font-size: 2.5263rem;
+}
+.dis_cont{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.in_con{
+    margin-top: 35px;
+    color: #e5e5e5;
+    border: solid 1px #e5e5e5;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: lighter;
+    font-size: 0.9825rem;
+}
+.btn_con{
+    width: 10%;
+    height: 43px;
+    margin-top: 35px;
+    background-color: white;
+    border: solid 1px #6bc2f1;
+    color:  #6bc2f1;
+}
+.foo{
+    height: 460px;
+    background-color: #072135;
+    color: white;
+}
